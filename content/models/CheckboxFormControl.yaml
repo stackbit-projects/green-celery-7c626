@@ -1,5 +1,5 @@
 type: object
-name: CheckboxFormControl
+name: CheckboxFormControl!
 label: Checkbox
 fieldGroups:
   - name: styles
